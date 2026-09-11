@@ -7,4 +7,4 @@ This project is a beginner-friendly introduction to convolutional neural network
 We use CNN and pre-trained model like ResNet50 is based on residual network.
 
 ## Result
-We had % accuracy for CNN
+We had 86.39% accuracy for CNN
